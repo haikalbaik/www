@@ -10,6 +10,7 @@ const config = {
   tagline: 'Created to host my knowledge, experience and learning journey',
   url: 'https://haikalbaik.netlify.app/',
   baseUrl: '/',
+  staticDirectories: ['static'],
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -37,14 +38,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/haikalbaik/www',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/haikalbaik/www',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -71,21 +72,26 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/haikalbaik',
             label: 'GitHub',
             position: 'right',
           },
+          {
+            to: '/about',
+            position: 'left',
+            label: 'About Me',
+          }
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Contact Me',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'My Contact',
+                to: '/about',
               },
             ],
           },
@@ -93,16 +99,8 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'GitHub',
+                href: 'https://github.com/haikalbaik',
               },
             ],
           },
@@ -115,7 +113,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/haikalbaik',
               },
             ],
           },

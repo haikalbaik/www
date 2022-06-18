@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'The Thirst of Knowledge',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Things that I know from various news, people, books or articles. Some are fact-checked with Google but for the most part, just conveying around the information. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'The Virtue of Experience',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Things that happened to or were done by me. May be influenced by emotions at that moment in time but writing it with inner peace and being very conscious. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'The Pursuit of Learning',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Things I purposely googled, youtubed, read, joined classes and studied. Will be the bulk of this site as the place where I documented all my learning materials.
       </>
     ),
   },
