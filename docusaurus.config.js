@@ -66,9 +66,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'docs-intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs & Notes',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -101,6 +101,10 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/haikalbaik',
+              },
+              {
+                label: 'TryHackMe',
+                href: 'https://tryhackme.com/p/FakeAdmin',
               },
             ],
           },
