@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Awesome Site',
-  tagline: 'Created to host my knowledge, experience and learning journey',
-  url: 'https://haikalbaik.netlify.app/',
+  title: 'My Digital Garden',
+  tagline: 'Created to digitize and document my knowledge, experience and learning journey',
+  url: 'https://haikalbaik.dev/',
   baseUrl: '/',
   staticDirectories: ['static'],
   onBrokenLinks: 'throw',
@@ -93,6 +93,9 @@ const config = {
                 label: 'My Contact',
                 to: '/about',
               },
+              {label: 'LinkedIn',
+               href: 'https://www.linkedin.com/in/mohdhaikalmohdisa/'
+              }
             ],
           },
           {
