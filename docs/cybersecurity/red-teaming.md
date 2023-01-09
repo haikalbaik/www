@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 ---
+# Red Teaming 
 
 ### *What is Red Teaming*
 Red teaming is a form of adversarial simulation that involves simulating the tactics, techniques, and procedures of adversaries in order to challenge and improve an organization's decision-making processes and critical infrastructure. It is a way to identify vulnerabilities and weaknesses in an organization's security measures that might not be apparent through traditional risk assessment methods.
