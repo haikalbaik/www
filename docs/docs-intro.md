@@ -15,7 +15,7 @@ This site is built using [Docusaurus](https://docusaurus.io/) documentation, pus
 
 ## What to Expect
 
-This serve as reminder that I need to showcase what I know. I was watching [Heath Adams video aka TheCyberMentor](https://www.youtube.com/watch?v=J09yWM9c4x8) last week and the key takeaway I get was there is a need for people to know what we as individual can do.
+This serve as reminder that I need to showcase what I know. I was watching [Heath Adams video aka TheCyberMentor](https://www.youtube.com/watch?v=J09yWM9c4x8) the key takeaway I get was there is a need for people to know what we as individual can do.
 
 Some important usurps from that video:-
 

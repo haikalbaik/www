@@ -2,13 +2,13 @@
 title: About Me
 ---
 
-# Elevator Pitch
+# TL;DR 
 
-I am an overlapper, with background in Petrolem Geoscience and the practical experience in technology. If you are a recruiter looking for this kind talent, let this site showcased my practical skills, core knowledge and extensive experience. I take everything from bird's eye view and dive to focus more on task at hand. I strive to be the most knowledgeable person where colleagues can count on to ask virtually anything. Check out the following to get more about me. 
+A one man IT team capable of delivering values across various IT domains, primarily infrastructure, network, cybersecurity, hardware and data science. I have practical experience in these areas and certifications to show my capabilities. 
 
 ## Introduction
 
-Hello there. You can call me **Haikal**. I'm a technology enthusiast hailed from **Kuala Lumpur, Malaysia**. Geophysicist by background but doing IT in practice. Currently approaching 9 years in oil and gas industry. I've done seismic data loading, interpretation, well-log correlation, AVO analysis and forward modelling. Curreently interested in working on integrating geoscience domain and technology domain. 
+Hello there. You can call me **Haikal**. I'm a technology enthusiast hailed from **Kuala Lumpur, Malaysia**. Geophysicist by background but doing IT in practice. Currently approaching 9 years in oil and gas industry. I've done seismic data loading, interpretation, well-log correlation, AVO analysis and forward modelling for geoscience domain. However as the go to IT guy, I've practical experience across all IT domains with primary aim to support businesses in delivering more with technology. Currently interested in working on integrating geoscience domain and technology domain. Check out what I've done below.  
 
 ## IT Specialist
 
@@ -37,6 +37,16 @@ Hello there. You can call me **Haikal**. I'm a technology enthusiast hailed from
 - Create documentation and provision IT assets to users
 - Support subject matter experts and project manager in identifying IT requirements for projects
 - Responsible for servers, VMs and backup
+
+### Office 365 
+
+- Create and manage sharepoint site
+- Migrating domains to Office 365 
+- Responsible for access management
+- Create users, groups, mailboxes
+- Create, update and manage passwords and policies
+- Manage MS Teams, OneDrive, Azure AD and Defender. 
+- Monitor O365 services 
 
 ### Artificial Intelligence, Machine Learning and Data Science ##
 
